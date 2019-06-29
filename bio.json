@@ -1,0 +1,43 @@
+{
+"nama": "Rezki M. Tanjung",
+"umur": 22,
+"alamat": "wirabaru 2 blok T.13 Pekuncen, Wiradesa kab. Pekalongan",
+"hobi": [ "gaming", "listening music", "cooking", "watch movies", "reading" ],
+"status pernikahan": false,
+"riwayat pendidikan": {
+	"tk": { 
+		"name": "TK Batik Pencongan", 
+		"year_in": "2001",
+		"year_out": "2003",
+		"major": null }, 
+	"sd": { 
+		"name": "SDN Pacar", 
+		"year_in": "2003",
+		"year_out": "2009",
+		"major": null }, 
+	"smp": { 
+		"name": "SMPN 1 Tirto",
+		"year_in": "2009",
+		"year_out": "2012",
+		"major": null },
+	"sma": { 
+		"name": "SMAN 1 Wiradesa", 
+		"year_in": "2012", 
+		"year_out": "2015", 
+		"major": "IPS" },
+	"perguruan tinggi": { 
+		"name": "STMIK Widya Pratama",
+		"year_in": "2015",
+		"year_out": "2018",
+		"major": "S1 Sistem Informasi" }
+	}, 
+"keahlian": [ 
+	{ "skill_name": "Java", "level": "advanced" }, 
+	{ "skill_name": "html+css", "level": "beginner" }, 
+	{ "skill_name": "javascript", "level": "beginner" }, 
+	{ "skill_name": "php", "level": "advanced" }, 
+	{ "skill_name": "python", "level": "beginner" }, 
+	{ "skill_name": "pascal", "level": "beginner" }, 
+	{ "skill_name": "php codeigniter", "level": "advanced" } ], 
+"ketertarikan": true 
+}
