@@ -6,7 +6,7 @@ package arkademy;
  */
 public class Answer3 {
     public static void main(String[] args) {
-        int n = 11; 
+        int n = 11; //value
 	printPattern(n); 
     }
     static void printPattern(int n){ 
